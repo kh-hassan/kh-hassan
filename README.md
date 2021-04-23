@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kh-hassan
+- 👋 Hi, I’m Hassan Khalil
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently pursuing my Computer Science Degree at INP-ENSEEIHT TOULOUSE-Graduate Engineering School
 - 💞️ I’m looking to collaborate on machine learning & deep learning projects
